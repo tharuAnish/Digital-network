@@ -1,0 +1,13 @@
+.infoForm {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  min-height: 100vh;
+}
+
+.infoInput {
+  padding: 10px 12px;
+  border-radius: 10px;
+}
