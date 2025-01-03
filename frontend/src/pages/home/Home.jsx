@@ -7,6 +7,7 @@ import "./Home.css"
 import { useNavigate } from "react-router-dom"
 const Home = () => {
   const navigate = useNavigate()
+  //komment
   // useEffect(() => {
   //   if (!localStorage.getItem("userId")) {
   //     navigate("/")
